@@ -16,14 +16,6 @@ The system extracts frames from uploaded videos, processes them with a CNN to ca
 ---
 
 ## 🗂️ Project Structure
-deepfake/
-├── ml_app/ # Django app containing ML logic
-│ ├── models/ # (Optional) trained model storage
-│ ├── views.py # Video processing and detection pipeline
-│ └── ...
-├── templates/ # HTML templates for web UI
-├── static/ # CSS, JS, images
-├── db.sqlite3 # SQLite database (dev)
-├── manage.py # Django project manager
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+<img width="551" height="398" alt="Screenshot 2025-08-17 090854" src="https://github.com/user-attachments/assets/c65aa09e-e663-4f2c-b5f1-739d12a28b24" />
+
+
