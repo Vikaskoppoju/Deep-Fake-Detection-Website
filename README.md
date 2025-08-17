@@ -60,19 +60,15 @@ Now visit 👉 http://127.0.0.1:8000/ in your browser.
 
 ### 📌 Usage
 
-- Open the website in your browser.
+- Open the website in your browser.  
+- Upload a video file (`.mp4`, `.avi`, etc.).  
+- The system will:  
+  - Extract frames  
+  - Pass through CNN + LSTM model  
+  - Return whether the video is **Deepfake** or **Authentic**  
+- Results displayed on the UI.  
 
-- Upload a video file (.mp4, .avi, etc.).
 
-- The system will:
-
--- Extract frames
-
--- Pass through CNN + LSTM model
-
-- Return whether the video is Deepfake or Authentic.
-
-- Results displayed on the UI.
 
 
 
